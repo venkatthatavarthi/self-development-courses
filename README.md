@@ -8,8 +8,11 @@ The subject of the courses include english, finances, job interview skills, mind
 | **Courses**                                               | **Status** | **Evidence** |
 | :-------------------------------------------------------- | :--------: | :----------: |
 | [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)             |            |              |
-| [Writing Applications](https://www.futurelearn.com/courses/writing-applications) |            |              |
+| [How to Succeed at: Writing Applications](https://www.futurelearn.com/courses/writing-applications) |            |              |
+| [How to Succeed at: Interviews](https://www.futurelearn.com/courses/interviews) |            |              |
 | [English@Work: Basic Job Interview Skills](https://www.edx.org/course/englishwork-basic-job-interview-skills) |            |              |
+| [English@Work: Advanced Job Interview Skills](https://www.edx.org/course/englishwork-advanced-job-interview-skills) |            |              |
+| [Maintaining a Mindful Life](https://www.futurelearn.com/courses/mindfulness-life) |            |              |
 | [Finance Fundamentals: Financial Planning and Budgeting](https://www.futurelearn.com/courses/personal-financial-planning-and-budgeting) |            |              |
 | [Presentation skills: Designing Presentation Slides](https://www.coursera.org/learn/slides) |            |              |
 | [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) |            |              |
