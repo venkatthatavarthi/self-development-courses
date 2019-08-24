@@ -12,7 +12,7 @@ The subject of the courses include english, finances, job interview skills, mind
 | [How to Succeed at: Interviews](https://www.futurelearn.com/courses/interviews) |            |              |
 | [English@Work: Basic Job Interview Skills](https://www.edx.org/course/englishwork-basic-job-interview-skills) |            |              |
 | [English@Work: Advanced Job Interview Skills](https://www.edx.org/course/englishwork-advanced-job-interview-skills) |            |              |
-| [Practical Thinking Skills for a Successful Life](https://www.edx.org/course/life-death-mysteries-meanings) |            |              |
+| [Practical Thinking Skills for a Successful Life](https://www.youtube.com/watch?v=xAGzXfD0IJw) |            |              |
 | [Maintaining a Mindful Life](https://www.futurelearn.com/courses/mindfulness-life) |            |              |
 | [Finance Fundamentals: Financial Planning and Budgeting](https://www.futurelearn.com/courses/personal-financial-planning-and-budgeting) |            |              |
 | [Kickstart Your Career: Getting Ahead at University](https://www.futurelearn.com/courses/kickstart-your-career) |            |              |
