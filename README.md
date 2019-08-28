@@ -23,6 +23,7 @@ The subject of the courses include english, finances, job interview skills, mind
 | [English for the Workplace](https://www.futurelearn.com/courses/workplace-english) |            |              |
 | [The Science of Everyday Thinking](https://www.edx.org/course/the-science-of-everyday-thinking) |            |              |
 | [Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life](https://www.coursera.org/learn/know-thyself-the-examined-life) |            |              |
+| [Communicating Effectively: How to Inspire and Convince](https://www.edx.org/course/communicating-effectively-how-to-inspire-and-convince) |            |              |
 | [Learning Online: Searching and Researching](https://www.futurelearn.com/courses/searching-and-researching) |            |              |
 | [Moralities of Everyday Life](https://www.coursera.org/learn/moralities) |            |              |
 | **Reading**                                               | **Status** | **Evidence** |
