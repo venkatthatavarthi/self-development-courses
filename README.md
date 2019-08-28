@@ -26,6 +26,7 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Communicating Effectively: How to Inspire and Convince](https://www.edx.org/course/communicating-effectively-how-to-inspire-and-convince) |            |              |
 | [Learning Online: Searching and Researching](https://www.futurelearn.com/courses/searching-and-researching) |            |              |
 | [Moralities of Everyday Life](https://www.coursera.org/learn/moralities) |            |              |
+| [Effective Decision Making: Dealing with Business Complexity](https://www.edx.org/course/effective-decision-making-dealing-with-business-complexity) |            |              |
 | **Reading**                                               | **Status** | **Evidence** |
 |                                                           |            |              |
 
