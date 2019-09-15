@@ -11,7 +11,7 @@ The subject of the courses include english, finances, job interview skills, mind
 | [How to Succeed at: Writing Applications](https://www.futurelearn.com/courses/writing-applications) | Doing |              |
 | [How to Succeed at: Interviews](https://www.futurelearn.com/courses/interviews) |  |              |
 | [English@Work: Basic Job Interview Skills](https://www.edx.org/course/englishwork-basic-job-interview-skills) | Doing  |
-| [Career Hacking™: Resume, LinkedIn, Interviewing +More](https://www.udemy.com/course/golden-gate-bridge/) |            |              |
+| [The Odin Project - Getting Hired](https://www.theodinproject.com/courses/getting-hired) |            |              |
 | [English@Work: Advanced Job Interview Skills](https://www.edx.org/course/englishwork-advanced-job-interview-skills) |            |              |
 | [Practical Thinking Skills for a Successful Life](https://www.edx.org/course/practical-thinking-skills-for-a-successful-life) |            |              |
 | [Food as Medicine](https://www.futurelearn.com/courses/food-as-medicine) |            |              |
