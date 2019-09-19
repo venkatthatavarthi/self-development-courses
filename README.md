@@ -27,6 +27,7 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Learning Online: Searching and Researching](https://www.futurelearn.com/courses/searching-and-researching) |            |              |
 | [Moralities of Everyday Life](https://www.coursera.org/learn/moralities) |            |              |
 | [Effective Decision Making: Dealing with Business Complexity](https://www.edx.org/course/effective-decision-making-dealing-with-business-complexity) |            |              |
+| [Academic writing for clarity and meaning](https://www.edx.org/course/academic-writing-for-clarity-and-meaning) |            |              |
 | **Reading**                                               | **Status** | **Evidence** |
 |                                                           |            |              |
 
