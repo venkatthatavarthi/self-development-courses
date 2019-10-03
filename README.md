@@ -10,12 +10,11 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)             | Finished |              |
 | [How to Succeed at: Writing Applications](https://www.futurelearn.com/courses/writing-applications) | Finished |              |
 | [How to Succeed at: Interviews](https://www.futurelearn.com/courses/interviews) |  |              |
-| [English@Work: Basic Job Interview Skills](https://www.edx.org/course/englishwork-basic-job-interview-skills) | Doing  |
 | [The Odin Project - Getting Hired](https://www.theodinproject.com/courses/getting-hired) |            |              |
-| [English@Work: Advanced Job Interview Skills](https://www.edx.org/course/englishwork-advanced-job-interview-skills) |            |              |
 | [Practical Thinking Skills for a Successful Life](https://www.edx.org/course/practical-thinking-skills-for-a-successful-life) |            |              |
 | [Food as Medicine](https://www.futurelearn.com/courses/food-as-medicine) |            |              |
 | [Maintaining a Mindful Life](https://www.futurelearn.com/courses/mindfulness-life) |            |              |
+| [Critical Thinking & Problem-Solving](https://www.edx.org/course/critical-thinking-problem-solving) |            |              |
 | [Finance Fundamentals: Financial Planning and Budgeting](https://www.futurelearn.com/courses/personal-financial-planning-and-budgeting) |            |              |
 | [Kickstart Your Career: Getting Ahead at University](https://www.futurelearn.com/courses/kickstart-your-career) |            |              |
 | [Presentation skills: Designing Presentation Slides](https://www.coursera.org/learn/slides) |            |              |
