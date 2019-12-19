@@ -13,6 +13,7 @@ The subject of the courses include english, finances, job interview skills, mind
 | [The Odin Project - Getting Hired](https://www.theodinproject.com/courses/getting-hired) |            |              |
 | [Practical Thinking Skills for a Successful Life](https://www.edx.org/course/practical-thinking-skills-for-a-successful-life) |            |              |
 | [Food as Medicine](https://www.futurelearn.com/courses/food-as-medicine) |            |              |
+| [Crash Course Philosophy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR) |            |              |
 | [Maintaining a Mindful Life](https://www.futurelearn.com/courses/mindfulness-life) |            |              |
 | [Critical Thinking & Problem-Solving](https://www.edx.org/course/critical-thinking-problem-solving) |            |              |
 | [Finance Fundamentals: Financial Planning and Budgeting](https://www.futurelearn.com/courses/personal-financial-planning-and-budgeting) |            |              |
