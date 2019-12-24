@@ -11,7 +11,7 @@ The subject of the courses include english, finances, job interview skills, mind
 | [How to Succeed at: Writing Applications](https://www.futurelearn.com/courses/writing-applications) | Finished |              |
 | [How to Succeed at: Interviews](https://www.futurelearn.com/courses/interviews) |  |              |
 | [The Odin Project - Getting Hired](https://www.theodinproject.com/courses/getting-hired) |            |              |
-| [Practical Thinking Skills for a Successful Life](https://www.edx.org/course/practical-thinking-skills-for-a-successful-life) |            |              |
+| [Practical Thinking Skills for a Successful Life](https://www.edx.org/course/practical-thinking-skills-for-a-successful-life) |         Finished   |  |
 | [Food as Medicine](https://www.futurelearn.com/courses/food-as-medicine) |            |              |
 | [Crash Course Philosophy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR) |            |              |
 | [Maintaining a Mindful Life](https://www.futurelearn.com/courses/mindfulness-life) |            |              |
