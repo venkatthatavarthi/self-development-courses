@@ -29,5 +29,6 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Effective Decision Making: Dealing with Business Complexity](https://www.edx.org/course/effective-decision-making-dealing-with-business-complexity) |            |              |
 | [Academic writing for clarity and meaning](https://www.edx.org/course/academic-writing-for-clarity-and-meaning) |            |              |
 | **Reading**                                               | **Status** | **Evidence** |
-| [The Power of Habit](https://www.amazon.com.br/Power-Habit-What-Business-English-ebook/dp/B0055PGUYU/ref=asc_df_B0055PGUYU/?tag=googleshopp00-20&linkCode=df0&hvadid=379708092693&hvpos=1o1&hvnetw=g&hvrand=3207211732470917854&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001706&hvtargid=pla-810781469962&psc=1) |            |              |
+| [The Power of Habit](https://www.amazon.com.br/Power-Habit-What-Business-English-ebook/dp/B0055PGUYU/ref=asc_df_B0055PGUYU) |            |              |
+| [Ultralearning: Accelerate Your Career, Master Hard Skills and Outsmart the Competition](https://www.amazon.com.br/Ultralearning-Strategies-Mastering-Getting-English-ebook/dp/B07J2CKYXC) |            |              |
 
