@@ -28,6 +28,20 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Moralities of Everyday Life](https://www.coursera.org/learn/moralities) |            |              |
 | [Effective Decision Making: Dealing with Business Complexity](https://www.edx.org/course/effective-decision-making-dealing-with-business-complexity) |            |              |
 | [Academic writing for clarity and meaning](https://www.edx.org/course/academic-writing-for-clarity-and-meaning) |            |              |
+| [Mindfulness and Resilience to Stress at Work](https://www.edx.org/course/mindfulness-and-resilience-to-stress-at-work) |            |              |
+| [Developing a Systems Mindset](https://www.coursera.org/learn/systems-mindset?ranMID=40328) |            |              |
+| [Developing Soft Skills and Personality](https://swayam.gov.in/nd1_noc19_hs32/preview) |            |              |
+| [Nutrition: Eating to Live Well](https://www.futurelearn.com/courses/eating-while-enjoying-life) |            |              |
+| [Improving Your Study Techniques](https://www.futurelearn.com/courses/improving-study-techniques) |            |              |
+| [Python and Statistics for Financial Analysis](https://www.coursera.org/learn/python-statistics-financial-analysis?ranMID=40328) |            |              |
+| [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) |            |              |
+| [Critical thinking: reasoned decision making](https://www.edx.org/course/critical-thinking-reasoned-decision-making) |            |              |
+| [Introduction to Self-Determination Theory: An approach to motivation, development and wellness](https://www.coursera.org/learn/self-determination-theory?ranMID=40328) |            |              |
+| [Negotiation skills: Negotiate and resolve conflict](https://www.coursera.org/learn/negotiation-skills-conflict?ranMID=40328) |            |              |
+| [Developing Soft Skills and Personality](https://swayam.gov.in/nd1_noc19_hs32/preview) |            |              |
+| [Developing Soft Skills and Personality](https://swayam.gov.in/nd1_noc19_hs32/preview) |            |              |
+| [Developing Soft Skills and Personality](https://swayam.gov.in/nd1_noc19_hs32/preview) |            |              |
+| [Developing Soft Skills and Personality](https://swayam.gov.in/nd1_noc19_hs32/preview) |            |              |
 | **Reading**                                               | **Status** | **Evidence** |
 | [The Power of Habit](https://www.amazon.com.br/Power-Habit-What-Business-English-ebook/dp/B0055PGUYU/ref=asc_df_B0055PGUYU) |            |              |
 | [Ultralearning: Accelerate Your Career, Master Hard Skills and Outsmart the Competition](https://www.amazon.com.br/Ultralearning-Strategies-Mastering-Getting-English-ebook/dp/B07J2CKYXC) |            |              |
