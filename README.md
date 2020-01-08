@@ -45,4 +45,5 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life](https://www.amazon.com.br/Genius-Foods-Smarter-Productive-Protecting-ebook/dp/B07169VV14) |            |              |
 | [Brain Food: The Surprising Science of Eating for Cognitive Power](https://www.amazon.com.br/Brain-Food-Surprising-Science-Cognitive-ebook/dp/B071K4DWZ9) |            |              |
 | [Rest: Why You Get More Done When You Work Less](https://www.amazon.com.br/Rest-More-Done-When-English-ebook/dp/B06XKQ32J7) |            |              |
-
+| [Atomic Habits]() |            |              |
+| [The Morning Miracle]() |            |              |
