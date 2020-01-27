@@ -41,11 +41,11 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Negotiation skills: Negotiate and resolve conflict](https://www.coursera.org/learn/negotiation-skills-conflict?ranMID=40328) |            |              |
 | [Weight Management: Beyond Balancing Calories](https://www.coursera.org/learn/weight-management-beyond-balancing-calories?ranMID=40328) |            |              |
 | **Reading**                                               | **Status** | **Evidence** |
-| [The Power of Habit](https://www.amazon.com.br/Power-Habit-What-Business-English-ebook/dp/B0055PGUYU/ref=asc_df_B0055PGUYU) |            |              |
+| [The Power of Habit](https://www.amazon.com.br/Power-Habit-What-Business-English-ebook/dp/B0055PGUYU/ref=asc_df_B0055PGUYU) | Reading |              |
 | [Ultralearning: Accelerate Your Career, Master Hard Skills and Outsmart the Competition](https://www.amazon.com.br/Ultralearning-Strategies-Mastering-Getting-English-ebook/dp/B07J2CKYXC) |            |              |
 | [Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life](https://www.amazon.com.br/Genius-Foods-Smarter-Productive-Protecting-ebook/dp/B07169VV14) |            |              |
 | [Brain Food: The Surprising Science of Eating for Cognitive Power](https://www.amazon.com.br/Brain-Food-Surprising-Science-Cognitive-ebook/dp/B071K4DWZ9) |            |              |
 | [Rest: Why You Get More Done When You Work Less](https://www.amazon.com.br/Rest-More-Done-When-English-ebook/dp/B06XKQ32J7) |            |              |
 | [Atomic Habits]() |            |              |
-| [The Morning Miracle]() |            |              |
+| [The Morning Miracle]() | Reading |              |
 | [Sleep Smarter: 21 Essential Strategies to Sleep Your Way to A Better Body, Better Health, and Bigger Success](https://www.amazon.com.br/Sleep-Smarter-Essential-Strategies-Success-ebook/dp/B019G14UQI) |            |              |
