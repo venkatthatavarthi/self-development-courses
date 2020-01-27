@@ -48,3 +48,4 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Rest: Why You Get More Done When You Work Less](https://www.amazon.com.br/Rest-More-Done-When-English-ebook/dp/B06XKQ32J7) |            |              |
 | [Atomic Habits]() |            |              |
 | [The Morning Miracle]() |            |              |
+| [Sleep Smarter: 21 Essential Strategies to Sleep Your Way to A Better Body, Better Health, and Bigger Success](https://www.amazon.com.br/Sleep-Smarter-Essential-Strategies-Success-ebook/dp/B019G14UQI) |            |              |
