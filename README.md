@@ -7,12 +7,12 @@ The subject of the courses include english, finances, job interview skills, mind
 
 | **Courses**                                               | **Status** | **Evidence** |
 | :-------------------------------------------------------- | :--------: | :----------: |
-| [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)             | Finished |              |
-| [How to Succeed at: Writing Applications](https://www.futurelearn.com/courses/writing-applications) | Finished |              |
+| [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)             |  |              |
+| [How to Succeed at: Writing Applications](https://www.futurelearn.com/courses/writing-applications) |  |              |
 | [How to Succeed at: Interviews](https://www.futurelearn.com/courses/interviews) |  |              |
 | [The Odin Project - Getting Hired](https://www.theodinproject.com/courses/getting-hired) |            |              |
-| [Practical Thinking Skills for a Successful Life](https://www.edx.org/course/practical-thinking-skills-for-a-successful-life) |         Finished   |  |
-| [Hacking Exercise For Health. The surprising new science of fitness](https://www.coursera.org/learn/hacking-exercise-health?ranMID=40328&ranEAID=SAyYsTvLiGQ) | Doing |              |
+| [Practical Thinking Skills for a Successful Life](https://www.edx.org/course/practical-thinking-skills-for-a-successful-life) |            |  |
+| [Hacking Exercise For Health. The surprising new science of fitness](https://www.coursera.org/learn/hacking-exercise-health?ranMID=40328&ranEAID=SAyYsTvLiGQ) |  |              |
 | [Food as Medicine](https://www.futurelearn.com/courses/food-as-medicine) |            |              |
 | [Crash Course Philosophy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR) |            |              |
 | [Maintaining a Mindful Life](https://www.futurelearn.com/courses/mindfulness-life) |            |              |
@@ -47,5 +47,5 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Brain Food: The Surprising Science of Eating for Cognitive Power](https://www.amazon.com.br/Brain-Food-Surprising-Science-Cognitive-ebook/dp/B071K4DWZ9) |            |              |
 | [Rest: Why You Get More Done When You Work Less](https://www.amazon.com.br/Rest-More-Done-When-English-ebook/dp/B06XKQ32J7) |            |              |
 | [Atomic Habits]() |            |              |
-| [The Morning Miracle]() | Reading |              |
+| [The Morning Miracle]() |  |              |
 | [Sleep Smarter: 21 Essential Strategies to Sleep Your Way to A Better Body, Better Health, and Bigger Success](https://www.amazon.com.br/Sleep-Smarter-Essential-Strategies-Success-ebook/dp/B019G14UQI) |            |              |
