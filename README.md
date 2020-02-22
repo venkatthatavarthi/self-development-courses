@@ -5,7 +5,7 @@ List of self development courses, books and articles
 
 The subject of the courses include english, finances, job interview skills, mindfulness and so on.
 
-| **Courses**                                               | **Status** | **Evidence** |
+| **Courses**                                               | **Status** | **Summary** |
 | :-------------------------------------------------------- | :--------: | :----------: |
 | [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)             |  |              |
 | [How to Succeed at: Writing Applications](https://www.futurelearn.com/courses/writing-applications) |  |              |
@@ -40,7 +40,7 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Introduction to Self-Determination Theory: An approach to motivation, development and wellness](https://www.coursera.org/learn/self-determination-theory?ranMID=40328) |            |              |
 | [Negotiation skills: Negotiate and resolve conflict](https://www.coursera.org/learn/negotiation-skills-conflict?ranMID=40328) |            |              |
 | [Weight Management: Beyond Balancing Calories](https://www.coursera.org/learn/weight-management-beyond-balancing-calories?ranMID=40328) |            |              |
-| **Reading**                                               | **Status** | **Evidence** |
+| **Reading**                                               | **Status** | **Summary** |
 | [The Power of Habit](https://www.amazon.com.br/Power-Habit-What-Business-English-ebook/dp/B0055PGUYU/ref=asc_df_B0055PGUYU) |  |              |
 | [Ultralearning: Accelerate Your Career, Master Hard Skills and Outsmart the Competition](https://www.amazon.com.br/Ultralearning-Strategies-Mastering-Getting-English-ebook/dp/B07J2CKYXC) |            |              |
 | [Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life](https://www.amazon.com.br/Genius-Foods-Smarter-Productive-Protecting-ebook/dp/B07169VV14) |            |              |
