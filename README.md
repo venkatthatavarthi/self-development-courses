@@ -7,7 +7,7 @@ The subject of the courses include english, finances, job interview skills, mind
 
 | **Courses**                                               | **Status** | **Summary** |
 | :-------------------------------------------------------- | :--------: | :----------: |
-| [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)             |  |              |
+| [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance)             | Finished |              |
 | [How to Succeed at: Writing Applications](https://www.futurelearn.com/courses/writing-applications) |  |              |
 | [How to Succeed at: Interviews](https://www.futurelearn.com/courses/interviews) |  |              |
 | [The Odin Project - Getting Hired](https://www.theodinproject.com/courses/getting-hired) |            |              |
