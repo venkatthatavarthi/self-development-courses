@@ -50,4 +50,4 @@ The subject of the courses include english, finances, job interview skills, mind
 | [The Morning Miracle]() | Reading |              |
 | [Sleep Smarter: 21 Essential Strategies to Sleep Your Way to A Better Body, Better Health, and Bigger Success](https://www.amazon.com.br/Sleep-Smarter-Essential-Strategies-Success-ebook/dp/B019G14UQI) |            |              |
 | [Sapiens: A Brief History of Humankind](https://www.amazon.com.br/Sapiens-Uma-breve-história-humanidade-ebook/dp/B00UZLPCGQ) |            |              |
-| [Smart Thinking: Three Essential Keys to Solve Problems, Innovate, and Get Things Done](https://www.amazon.com/Smart-Thinking-Essential-Problems-Innovate/dp/0399537759) |            |              |
+| [Smart Thinking: Three Essential Keys to Solve Problems, Innovate, and Get Things Done](https://www.amazon.com/Smart-Thinking-Essential-Problems-Innovate/dp/0399537759) | Reading |              |
