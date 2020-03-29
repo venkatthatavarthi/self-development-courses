@@ -52,3 +52,4 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Sapiens: A Brief History of Humankind](https://www.amazon.com.br/Sapiens-Uma-breve-história-humanidade-ebook/dp/B00UZLPCGQ) |            |              |
 | [Smart Thinking: Three Essential Keys to Solve Problems, Innovate, and Get Things Done](https://www.amazon.com/Smart-Thinking-Essential-Problems-Innovate/dp/0399537759) | Reading |              |
 | [Think and Grow Rich](https://www.amazon.com.br/Think-Grow-Rich-English-Napoleon-ebook/dp/B01B11TR8C) |            |              |
+| [Feeling Good: The New Mood Therapy](https://www.amazon.com.br/Feeling-Good-Mood-Therapy-English-ebook/dp/B009UW5X4C) |            |
