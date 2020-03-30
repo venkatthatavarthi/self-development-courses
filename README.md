@@ -53,3 +53,4 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Smart Thinking: Three Essential Keys to Solve Problems, Innovate, and Get Things Done](https://www.amazon.com/Smart-Thinking-Essential-Problems-Innovate/dp/0399537759) | Reading |              |
 | [Think and Grow Rich](https://www.amazon.com.br/Think-Grow-Rich-English-Napoleon-ebook/dp/B01B11TR8C) |            |              |
 | [Feeling Good: The New Mood Therapy](https://www.amazon.com.br/Feeling-Good-Mood-Therapy-English-ebook/dp/B009UW5X4C) |            |
+| [Mindfulness: A practical guide to finding peace in a frantic world](https://www.amazon.com.br/Mindfulness-practical-finding-frantic-English-ebook/dp/B004XCFJ3E) |            |              |
