@@ -54,3 +54,5 @@ The subject of the courses include english, finances, job interview skills, mind
 | [Think and Grow Rich](https://www.amazon.com.br/Think-Grow-Rich-English-Napoleon-ebook/dp/B01B11TR8C) |            |              |
 | [Feeling Good: The New Mood Therapy](https://www.amazon.com.br/Feeling-Good-Mood-Therapy-English-ebook/dp/B009UW5X4C) |            |
 | [Mindfulness: A practical guide to finding peace in a frantic world](https://www.amazon.com.br/Mindfulness-practical-finding-frantic-English-ebook/dp/B004XCFJ3E) |            |              |
+| [The Mamba Mentality: How I Play](https://www.amazon.com.br/Mamba-Mentality-How-Play-English-ebook/dp/B07DC3WRKT) |            |              |
+
